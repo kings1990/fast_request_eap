@@ -1,8 +1,8 @@
 # 体验版安装教程
 
-1.下载群主发的zip包
-2.前往 setting → plugins → Install plugin from disk
-3.选择下载好的安装包并重启 (请不要解压压缩包)
+1. 下载最新的zip包
+2. 前往 setting → plugins → Install plugin from disk
+3. 选择下载好的安装包并重启 (请不要解压压缩包)
 
 # 正式版安装
 
